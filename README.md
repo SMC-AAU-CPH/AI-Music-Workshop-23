@@ -19,7 +19,7 @@
 - Show and tell: including influence and ethics
 - Download your work as MIDI (we'll use in 1.3 onwards)
 
-### 2.2 Machine Learning Basics (30h) @ 10:30
+### 2.2 Machine Learning Basics (30h) @ 11:15
 
 - Main: https://playground.tensorflow.org/
 - Tinker with the defalult example: What are features, learning rate, activation functions?
@@ -27,24 +27,26 @@
   ![1692675074232](image/README/1692675074232.png)
 - Exit: Check around tensorflow @ https://www.tensorflow.org/ (Main tool for Magenta)
 
-### 2.3 NSynth + Magenta Family (1.5 h) @ 11:00
+### 2.3 NSynth + Magenta Family (45 m) @ 11:45
 
 - Explore https://magenta.tensorflow.org/get-started
 - Find NSynth Explorer at the Web Applications: https://magenta.tensorflow.org/demos/web/ , try it out
 - Main: https://magenta.tensorflow.org/nsynth
 - Check https://magenta.tensorflow.org/nsynth-instrument If you have Ableton Live or Max/MSP, download the plugin, experiment with the grid. If not, try other web apps.
+
+### 2.4 Magenta Studio (1,5 h) @ 13:30
 - Download Magenta Studio https://magenta.tensorflow.org/studio (If you have Ableton Live, the plugin version, if not the standalone)
 - Make sure to experiment with all 5 tools: [Continue](https://magenta.tensorflow.org/studio/standalone#continue), [Groove](https://magenta.tensorflow.org/studio/standalone#groove), [Generate](https://magenta.tensorflow.org/studio/standalone#generate), [Drumify](https://magenta.tensorflow.org/studio/standalone#drumify), and [Interpolate](https://magenta.tensorflow.org/studio/standalone#interpolate). Apply Magenta models to your MIDI file from (1.1).
 - Show and tell at 13:30.
 
-### 2.4 DAW Plugins (1.5 h) @ 13:30
+### 2.4 DAW Plugins (1 h) @ 15:00
 
 - Main: https://interactiveaudiolab.github.io/project/audacity.html
 - Download special build of audactiy (Mac only ???)
 - Try Usage Example - Upmixing and Remixing with Source Separation with your favorite audio file
 - Try adding vocals to your AIVA composition. We have to match the pitch, tempo, harmony, or other attributes with effects.
 
-### 2.5 Large Language Models applied to Music  (1 h) @ 15:00
+### DONE 2.5 Large Language Models applied to Music
 
 * Google Music LM: https://google-research.github.io/seanet/musiclm/examples/
 * Meta AudioCraft: https://audiocraft.metademolab.com/
