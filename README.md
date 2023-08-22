@@ -46,10 +46,11 @@
 - Try Usage Example - Upmixing and Remixing with Source Separation with your favorite audio file
 - Try adding vocals to your AIVA composition. We have to match the pitch, tempo, harmony, or other attributes with effects.
 
-### DONE 2.5 Large Language Models applied to Music
+### DONE 2.5 Large Language Models (LLMs) applied to Music
 
 * Google Music LM: https://google-research.github.io/seanet/musiclm/examples/
 * Meta AudioCraft: https://audiocraft.metademolab.com/
+* 🔥 Brand-new: web UI for LLMs https://sonauto.app/ (requires Google log in)
 
 ## Day 3
 
