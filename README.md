@@ -19,7 +19,7 @@
 - Show and tell: including influence and ethics
 - Download your work as MIDI (we'll use in 1.3 onwards)
 
-### 2.2 Machine Learning Basics (1h) @ 10:00
+### 2.2 Machine Learning Basics (30h) @ 10:30
 
 - Main: https://playground.tensorflow.org/
 - Tinker with the defalult example: What are features, learning rate, activation functions?
