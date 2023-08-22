@@ -48,6 +48,7 @@
 
 ### 2.5 Solo instruments
 - Magenta's DDSP: https://magenta.tensorflow.org/ddsp-vst
+  - DDSP models by its authors: https://drive.google.com/drive/folders/1o00rBOLPNEZWURCimK_QQWpvR8iWVeK5 
 - DDSP + TikTok-like morphing: https://mawf.io/
 - Neutone: https://neutone.space/ 
 
