@@ -46,7 +46,12 @@
 - Try Usage Example - Upmixing and Remixing with Source Separation with your favorite audio file
 - Try adding vocals to your AIVA composition. We have to match the pitch, tempo, harmony, or other attributes with effects.
 
-### DONE 2.5 Large Language Models (LLMs) applied to Music
+### 2.5 Solo instruments
+- Magenta's DDSP: https://magenta.tensorflow.org/ddsp-vst
+- DDSP + TikTok-like morphing: https://mawf.io/
+- Neutone: https://neutone.space/ 
+
+### 2.6 Large Language Models (LLMs) applied to Music
 
 * Google Music LM: https://google-research.github.io/seanet/musiclm/examples/
 * Meta AudioCraft: https://audiocraft.metademolab.com/
