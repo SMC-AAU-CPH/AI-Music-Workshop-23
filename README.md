@@ -67,3 +67,19 @@ TBA
 ### 3.2 Project presentations (PM)
 
 TBA
+
+#### Gianluca Eila linka
+Harmonai, Dance Diffusion
+https://www.youtube.com/watch?v=KmB8z2CYjZY
+
+Harmonai
+https://www.harmonai.org/
+
+Dadabots keynote
+https://www.youtube.com/watch?v=70PjXAOmQIs
+
+Moises horta hexorcismos
+https://moiseshorta.audio/
+
+Nice exhibition by ai ethics researcher mirabelle jones, open until aug 27
+https://facebook.com/events/s/overs%C3%A6ttelse-af-traumer-transl/2253077421542112/
