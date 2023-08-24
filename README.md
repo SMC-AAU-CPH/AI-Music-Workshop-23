@@ -62,11 +62,11 @@
 
 ### 3.1 Project initiation and work (AM)
 
-TBA
+Integrating 🔥 **Neutone**: https://neutone.space/ in your workflow, create a short musical piece. Ensure to use demucs for source seperation and several generative models together. Be *mindful* [about the resources](https://github.com/QosmoInc/neutone_sdk/pull/48) (sampling rate, buffer size, Real-time factor, latency etc): In most cases you'll be able to run max three instances even on a high-end computer. 
 
 ### 3.2 Project presentations (PM)
 
-TBA
+Critical listening and discussion. The final pieces will be linked here.
 
 #### Gianluca Eila linka
 Harmonai, Dance Diffusion
